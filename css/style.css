@@ -16,3 +16,6 @@
 
 /* Bicicletas */
 @import url("./bicicletas/bicicletas-lista.css");
+
+/* Parceiros */
+@import url("./home/parceiros.css");
