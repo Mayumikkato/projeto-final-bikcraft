@@ -8,6 +8,9 @@
 @import url("./home/parceiros.css");
 @import url("./home/depoimento.css");
 
+/* Orçamento */
+@import url("./orçamento/orcamento.css");
+
 /* Utilidades */
 @import url("./utilidades/componentes.css");
 @import url("./utilidades/cores.css");
