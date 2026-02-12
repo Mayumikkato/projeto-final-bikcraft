@@ -18,12 +18,12 @@
 }
 
 .bicicleta-imagens img {
-  flex: 1;
+  flex: 1 1;
   min-width: 200px;
 }
 
 .bicicleta-imagens img:first-child {
-  max-width: 100%;
+  flex-basis: 100%;
 }
 
 .bicicleta-conteudo > p {
